@@ -1,0 +1,3 @@
+1 - menu fixo com titulos da propria pagina e ancoragem
+2 - divisões com varios jogos diferentes q eu gosto e tentativas diferentes de exibir isso
+3 - ao clicar neles vai para outra pagina q vou aplicar outros conceitos
